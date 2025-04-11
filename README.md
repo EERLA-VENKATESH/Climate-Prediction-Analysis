@@ -4,8 +4,8 @@
 This project analyzes climate change trends using machine learning and statistical techniques. The objective is to identify key factors influencing climate change and develop predictive models for future climate patterns.
 
 ## Authors
-- **Kammari Sadguru Sai** - 23955A6715  
 - **Eerla Venkatesh** - 23955A6718  
+- **Kammari Sadguru Sai** - 23955A6715
 - **Department of Data Science**
 
 ## Table of Contents
